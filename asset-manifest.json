@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/armoniaspa/static/css/main.073c9b0a.css",
-    "main.js": "/armoniaspa/static/js/main.dde67146.js",
+    "main.css": "/armoniaspa/static/css/main.6da2965f.css",
+    "main.js": "/armoniaspa/static/js/main.54daf7af.js",
     "static/js/787.ee9ab735.chunk.js": "/armoniaspa/static/js/787.ee9ab735.chunk.js",
-    "static/media/logo.svg": "/armoniaspa/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/3.jpg": "/armoniaspa/static/media/3.2f1cf8166f94b8e01be4.jpg",
     "index.html": "/armoniaspa/index.html",
-    "main.073c9b0a.css.map": "/armoniaspa/static/css/main.073c9b0a.css.map",
-    "main.dde67146.js.map": "/armoniaspa/static/js/main.dde67146.js.map",
+    "main.6da2965f.css.map": "/armoniaspa/static/css/main.6da2965f.css.map",
+    "main.54daf7af.js.map": "/armoniaspa/static/js/main.54daf7af.js.map",
     "787.ee9ab735.chunk.js.map": "/armoniaspa/static/js/787.ee9ab735.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.dde67146.js"
+    "static/css/main.6da2965f.css",
+    "static/js/main.54daf7af.js"
   ]
 }
