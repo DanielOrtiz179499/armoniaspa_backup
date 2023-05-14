@@ -1,16 +1,23 @@
 {
   "files": {
     "main.css": "/armoniaspa/static/css/main.6da2965f.css",
-    "main.js": "/armoniaspa/static/js/main.54daf7af.js",
+    "main.js": "/armoniaspa/static/js/main.49a34b98.js",
     "static/js/787.ee9ab735.chunk.js": "/armoniaspa/static/js/787.ee9ab735.chunk.js",
-    "static/media/3.jpg": "/armoniaspa/static/media/3.2f1cf8166f94b8e01be4.jpg",
+    "static/media/1.jpeg": "/armoniaspa/static/media/1.79ca34befe987be63d03.jpeg",
+    "static/media/2.jpeg": "/armoniaspa/static/media/2.13af27a2dfb2a88968c0.jpeg",
+    "static/media/3.jpeg": "/armoniaspa/static/media/3.f1a759fb26ac9d8ade90.jpeg",
+    "static/media/8.jpeg": "/armoniaspa/static/media/8.4484b480c936df67b37a.jpeg",
+    "static/media/4.jpeg": "/armoniaspa/static/media/4.22262d15e268a0c4f6bd.jpeg",
+    "static/media/6.jpeg": "/armoniaspa/static/media/6.a58f472c2568cb8159a9.jpeg",
+    "static/media/5.jpeg": "/armoniaspa/static/media/5.6ccb2c58188e4499c73f.jpeg",
+    "static/media/7.jpeg": "/armoniaspa/static/media/7.8fc40a90de68ebb010fd.jpeg",
     "index.html": "/armoniaspa/index.html",
     "main.6da2965f.css.map": "/armoniaspa/static/css/main.6da2965f.css.map",
-    "main.54daf7af.js.map": "/armoniaspa/static/js/main.54daf7af.js.map",
+    "main.49a34b98.js.map": "/armoniaspa/static/js/main.49a34b98.js.map",
     "787.ee9ab735.chunk.js.map": "/armoniaspa/static/js/787.ee9ab735.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6da2965f.css",
-    "static/js/main.54daf7af.js"
+    "static/js/main.49a34b98.js"
   ]
 }
